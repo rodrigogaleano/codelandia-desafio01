@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'; //Importa o CSS
+import Header from './components/Header'; //Importa o componente Header
+import Posts from './components/Posts'; //Importa o componente Posts
 
-function App() {
-  return (
+function App() { //Cria a função App
+  return ( 
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       <Header></Header> {/*Renderiza o componente Header */}
+      <Posts></Posts> {/*Renderiza o componente Posts */}
     </div>
   );
 }
 
-export default App;
+export default App; //Exporta o componente App
