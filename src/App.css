@@ -7,7 +7,7 @@ header {
 }
 
 .container {
-  max-width: 60%;
+  width: 60%;
   margin: 0 auto;
 }
 
@@ -67,4 +67,22 @@ form input {
 
 .card-body h2{
   margin-bottom: 8px;
+}
+
+/* ----------------------------------------- */
+
+@media (max-width: 500px) {
+  h1{
+    font-size: 26px;
+  }
+  
+  h2{
+    font-size: 20px;
+  }
+  .card {
+    width: 80%;
+  }
+  .container {
+    width: 80%;
+  }
 }
