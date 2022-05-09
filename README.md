@@ -9,11 +9,11 @@
 
 ## Sobre
 
-Projeto desenvolvido a partir de um desafio da Codelândia, comunidade do discord do [Iuri Code](https://iuricode.com/). Trata-se do layout de um blog, você pode acessar a demo através deste [link](https://rodrigogaleano-codelandia-desafio01.netlify.app/).
+Projeto desenvolvido a partir de um desafio da Codelândia, comunidade do discord do [Iuri Code](https://iuricode.com/). Trata-se do layout de um blog, você pode acessar a demo através deste [link](https://rodrigogaleano-codelandia-desafio01.vercel.app/).
 
 ## Design
 
-Você pode acessar o design do projeto através do [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1)
+Você pode acessar o design do projeto através do [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1).
 
 ## Tutorial
 
